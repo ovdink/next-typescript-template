@@ -43,7 +43,7 @@ body {
     flex-direction: column;
 
     min-height: 100vh;
-    padding: 0 74px;
+    padding: 60px 74px 0;
     margin: 0;
 
     color: var(--color);
